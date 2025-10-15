@@ -14,7 +14,7 @@ A comprehensive HR Assistant application built with Streamlit, featuring multi-a
 ## 🤖 AI Agents
 
 1. **Job Description Writer**: Creates comprehensive job descriptions
-2. **Candidate Screener**: Evaluates candidate fit for positions
+2. **Candidate Screener**: Extract candidate skills for position
 3. **CV-to-Requirements Matcher**: Analyzes compatibility between CVs and job requirements
 4. **Interview Question Generator**: Generates targeted interview questions (requires face authentication)
 
@@ -188,3 +188,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: This application is designed for educational and demonstration purposes. For production use, consider additional security measures and compliance requirements.
+
